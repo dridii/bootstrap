@@ -1,3 +1,9 @@
-form {
-    display: flex;
+#hi{
+    flex-direction: row-reverse;
+}
+ol {
+    font-weight: bold;
+    background-color: #333;
+    color: #fff;
+    padding: .5em
 }
